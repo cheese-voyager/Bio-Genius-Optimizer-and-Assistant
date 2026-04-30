@@ -17,6 +17,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Bio-Genius Optimizer",
   description: "Monitoring & Optimizer Platform",
+  other: {
+    "dicoding:email": "zakhwaaliyamaryam78@gmail.com",
+  },
 };
 
 export default function RootLayout({
